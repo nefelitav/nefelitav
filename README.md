@@ -1,8 +1,13 @@
 ### Hi there 👋
+
 ###- 🔭 I’m currently working on an e-shop website.
+
 ###- 🌱 I’m currently learning ...
+
 ###- 👯 I’m looking to collaborate on ...
+
 ###- 🤔 I’m looking for help with ...
+
 ###- 💬 Ask me about ...
 ###- 📫 How to reach me: nefeli.tavoulari123@gmail.com
 ###- 😄 Pronouns: she/her
