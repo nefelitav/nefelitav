@@ -1,5 +1,6 @@
 ### Hi there 👋
-:it:I'm currently studying in La Sapienza, as an exchange student.
+
+-:it:I'm currently studying in La Sapienza, as an exchange student.
 
 - 🔭 I’m currently working on an e-shop website.
 
