@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on an e-shop website.
 
-- 🌱 I’m currently learning NumPy, PyTorch, Pandas, TensorFlow, Spark, AWS, Docker.
+- 🌱 I’m currently learning NumPy, PyTorch, Spark, AWS, Docker.
 
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
