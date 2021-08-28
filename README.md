@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-- 🇮🇹 I'm currently studying in La Sapienza, as an exchange student.
-
 - 🔭 Things i learned about this year: PySpark, PyTorch, AWS, Docker, Django, Flask, Machine Learning
 
 - 🌱 I’m currently working on 
