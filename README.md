@@ -8,10 +8,9 @@
   - an e-shop website using php
 
 - :dart: Things i want to learn or improve my knowledge on:
-  -  Docker
   -  React
-  -  MongoDB
-  -  Go
+  -  MongoDB, PostgreSQL
+  -  Node.js, Go, C#
   -  Mobile app development
   -  Blockchain
 
