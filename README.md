@@ -10,7 +10,8 @@
 - :dart: Things i want to learn or improve my knowledge on:
   -  React
   -  MongoDB, PostgreSQL
-  -  Node.js, Go, C#
+  -  Node.js, Laravel
+  -  Go, C#
   -  Mobile app development
   -  Blockchain
 
