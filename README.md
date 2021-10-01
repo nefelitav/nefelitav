@@ -8,6 +8,7 @@
   - an e-shop website using php
 
 - :dart: Things i want to learn or improve my knowledge on:
+  -  Kubernetes, Jenkins, Ansible  
   -  React
   -  MongoDB, PostgreSQL
   -  Node.js, Laravel
