@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Things i learned about this year: PySpark, PyTorch, AWS, Docker, Django, Flask, Machine Learning
+- 🔭 Things i learned about this year: PySpark, PyTorch, AWS, Docker, Django, Flask, Machine Learning, REST
 
 - 🌱 I’m currently working on 
   - a boilerplate saas using spring boot, react and mongodb 
@@ -9,10 +9,9 @@
 
 - :dart: Things i want to learn or improve my knowledge on:
   -  Kubernetes, Jenkins, Ansible  
-  -  React
-  -  MongoDB, PostgreSQL
-  -  Node.js, Laravel
-  -  Go, C#
+  -  React, Node.js
+  -  MongoDB, PostgreSQL, Firebase
+  -  GraphQL
   -  Mobile app development
   -  Blockchain
 
