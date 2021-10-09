@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Things i learned about this year: PySpark, PyTorch, AWS, Docker, Django, Flask, Machine Learning, REST
+- 🔭 Things i learned about this year: PySpark, PyTorch, AWS, Docker, Django, Flask, Machine Learning, REST, GraphQL
 
 - 🌱 I’m currently working on 
   - SaaS Boilerplates using different technologies
