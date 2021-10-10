@@ -8,9 +8,7 @@
 
 - :dart: Things i want to learn or improve my knowledge on:
   -  Kubernetes, Jenkins, Ansible  
-  -  React, Node.js
   -  MongoDB, PostgreSQL, Firebase
-  -  GraphQL
   -  Mobile app development
   -  Blockchain
 
