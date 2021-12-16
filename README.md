@@ -7,11 +7,13 @@
   - a stock prediction project using deep neural networks
   - a tech blog
 
-- :dart: Things i want to learn or improve my knowledge on:
-  -  Kubernetes, Jenkins, Ansible, Github Actions
-  -  MongoDB, PostgreSQL, Firebase
-  -  Mobile app development
+- :dart: Things i want to learn or master:
+  -  Shell Scripting, Linux CLI
+  -  Kubernetes, Helm, Argo CD
+  -  Jenkins, Github Actions
+  -  AWS, Terraform, Ansible
+  -  Maven, NPM, Istio, Prometheus
   -  Testing automation
-  -  Blockchain
+
 
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
