@@ -12,7 +12,7 @@
   -  Kubernetes, Helm, Argo CD
   -  Jenkins, Github Actions
   -  AWS, Terraform, Ansible
-  -  Maven, NPM, Istio, Prometheus, ELK
+  -  Maven, npm, Istio, Prometheus, ELK
   -  Testing automation
 
 
