@@ -7,7 +7,7 @@
   - a covid vaccine sentiment classifier using deep neural networks
   - a tech blog
 
-- :dart: Things i want to learn or master:
+- :dart: Things i want to learn or master in 2022:
   -  Shell Scripting, Linux CLI
   -  Kubernetes, Helm, Argo CD
   -  Jenkins, Github Actions
