@@ -8,10 +8,11 @@
   - a tech blog
 
 - :dart: Things i want to learn or master in 2022:
-  -  Shell Scripting, Linux CLI
+  -  Linux CLI
   -  Kubernetes, Helm, Argo CD
-  -  Jenkins, Github Actions
-  -  AWS, Terraform, Ansible
+  -  Jenkins
+  -  AWS 
+  -  Terraform, Ansible
   -  Istio, Linkerd
   -  Prometheus, ELK
   -  Testing automation
