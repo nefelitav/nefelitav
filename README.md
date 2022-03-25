@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently working on 
   - a SaaS Boilerplate using React Native and Firebase
-  - a covid vaccine sentiment classifier using deep neural networks
   - a tech blog
 
 - :dart: Things i want to learn or master in 2022:
