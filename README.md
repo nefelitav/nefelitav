@@ -12,8 +12,7 @@
   -  Jenkins
   -  AWS 
   -  Terraform, Ansible
-  -  Istio, Linkerd
-  -  Prometheus, ELK
+  -  Prometheus/ELK
   -  Testing automation
 
 
