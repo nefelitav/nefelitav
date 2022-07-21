@@ -6,7 +6,7 @@
   -  AWS, Docker, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master in 2022:
-  -  Ansible, Kubernetes, Helm, Argo CD
+  -  Ansible, Kubernetes, Helm, Argo CD, Python Scripting
   -  Rust, Go, Swift, Kotlin, React, NodeJS, Typescript, Django
   -  Redis, PostgreSQL, MongoDB
 
