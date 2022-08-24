@@ -8,6 +8,6 @@
 - :dart: Things i want to learn or master in 2022:
   -  Rust, Go, Swift, React, NodeJS, Typescript, Django
   -  Redis, PostgreSQL, MongoDB, Firebase
-  -  Postman, REST, GraphQL
+  -  Postman, GraphQL
 
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
