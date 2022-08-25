@@ -5,7 +5,7 @@
   -  PySpark, PyTorch, Machine Learning, REST, GraphQL
   -  AWS, Docker, Jenkins, Github Αctions
 
-- :dart: Things i want to learn or master in 2022:
+- :dart: Things i want to learn or master:
   -  Rust, Go, React, React Native, NodeJS, Typescript, Django
   -  Redis, PostgreSQL, MongoDB, Firebase
   -  Postman, GraphQL
