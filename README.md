@@ -6,7 +6,7 @@
   -  AWS, Docker, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master in 2022:
-  -  Rust, Go, Swift, React, NodeJS, Typescript, Django
+  -  Rust, Go, React, React Native, NodeJS, Typescript, Django
   -  Redis, PostgreSQL, MongoDB, Firebase
   -  Postman, GraphQL
 
