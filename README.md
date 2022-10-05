@@ -2,8 +2,8 @@
 
 - 🔭 Things i learned about in 2021:
   -  Django, Flask, Spring Boot, Laravel, React, NodeJS
-  -  PySpark, PyTorch, Machine Learning, REST, GraphQL
-  -  AWS, Docker, Jenkins, Github Αctions
+  -  PySpark, PyTorch, REST, GraphQL
+  -  AWS, Docker, Kubernetes, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master:
   -  Rust, Go, React, React Native, NodeJS, Typescript, Django
