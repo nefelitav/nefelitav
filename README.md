@@ -8,6 +8,6 @@
 - :dart: Things i want to learn or master:
   -  Rust, Go, React, React Native, NodeJS, Typescript, Django
   -  Redis, PostgreSQL, MongoDB, Firebase
-  -  Postman, GraphQL
+  -  Postman, GraphQL, Unit Testing
 
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
