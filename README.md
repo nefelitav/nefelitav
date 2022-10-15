@@ -6,7 +6,7 @@
   -  AWS, Docker, Kubernetes, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master:
-  -  Rust, Go, React, React Native, NodeJS, Typescript, Django
+  -  Rust, Go, React, React Native, Node.js, Typescript, Django
   -  Redis, PostgreSQL, MongoDB, Firebase
   -  Postman, GraphQL, Jest, Cypress, Selenium
 
