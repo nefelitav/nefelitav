@@ -7,7 +7,7 @@
 
 - :dart: Things i want to learn or master:
   -  React, Node.js, Typescript, React Native 
-  -  Rust, Go
+  -  Rust, Go, Neovim
   -  Redis, PostgreSQL, MongoDB
   -  Postman, GraphQL, Jest, Cypress, Selenium
 
