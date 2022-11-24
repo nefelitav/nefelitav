@@ -9,6 +9,7 @@
   -  React, Node.js, Typescript, React Native 
   -  Rust, Go, Neovim
   -  Redis, PostgreSQL, MongoDB
-  -  Postman, GraphQL, Jest, Cypress, Selenium
+  -  Postman, GraphQL 
+  -  Jest, Cypress, Selenium
 
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
