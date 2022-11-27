@@ -9,8 +9,7 @@
   -  NestJS, Next.js, Vite, RedwoodJS, Remix, React Native
   -  Typescript, Go, Rust
   -  Redis, PostgreSQL, MongoDB, Neo4j, FaunaDB
-  -  Jest, Cypress
-  -  Postman, GraphQL 
+  -  Jest, Cypress, Postman, GraphQL 
   -  Neovim 
   
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
