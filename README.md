@@ -6,9 +6,11 @@
   -  AWS, Docker, Kubernetes, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master:
-  -  React, Node.js, Typescript, React Native, Go, Rust
-  -  Redis, PostgreSQL, MongoDB
-  -  Jest, Cypress, Selenium
-  -  Postman, GraphQL, Neovim 
+  -  NestJS, Next.js, Vite, RedwoodJS, Remix, React Native
+  -  Typescript, Go, Rust
+  -  Redis, PostgreSQL, MongoDB, Neo4j, FaunaDB
+  -  Jest, Cypress
+  -  Postman, GraphQL 
+  -  Neovim 
   
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
