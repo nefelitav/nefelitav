@@ -6,7 +6,7 @@
   -  AWS, Docker, Kubernetes, Jenkins, Github Αctions
 
 - :dart: Things i want to learn or master:
-  -  NestJS, Next.js, Vite, RedwoodJS, Remix, React Native
+  -  NestJS, Next.js, RedwoodJS, Remix, React Native
   -  Typescript, Go, Rust
   -  Redis, PostgreSQL, MongoDB, Neo4j, FaunaDB
   -  Jest, Cypress, Postman 
