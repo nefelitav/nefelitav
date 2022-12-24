@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- :sassy_woman: Projects i'm working on at the moment:
+  - A leave management website using Spring Boot, React and MongoDB.
+  - A film review website using Next.js and Express, PostgreSQL, Redis.
+  - A ferry booking website React, NestJS, GraphQL, MongoDB, Redis.
+
 - 🔭 Things i learned about in 2021:
   -  Django, Flask, Spring Boot, Laravel, React, NodeJS
   -  PySpark, PyTorch, REST, GraphQL
