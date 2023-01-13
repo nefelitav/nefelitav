@@ -5,11 +5,6 @@
   - A film review website using Next.js and Express, PostgreSQL, Redis.
   - A ferry booking website React, NestJS, GraphQL, MongoDB, Redis.
 
-- 🔭 Things i learned about in 2021:
-  -  Django, Flask, Spring Boot, Laravel, React, NodeJS
-  -  PySpark, PyTorch, REST, GraphQL
-  -  AWS, Docker, Kubernetes, Jenkins, Github Αctions
-
 - :dart: Things i want to learn or master:
   -  NestJS, Next.js, RedwoodJS, Remix, React Native
   -  Typescript, Go, Rust
