@@ -6,7 +6,7 @@
   - A ferry booking website React, NestJS, GraphQL, MongoDB, Redis.
 
 - :dart: Things i want to learn or master:
-  -  NestJS, Next.js, Remix, React Native
+  -  NestJS, Next.js, React Native
   -  Redis, MySQL, PostgreSQL, SQLite, MongoDB, Neo4j
   -  Jest, Cypress, Postman 
   -  GraphQL
