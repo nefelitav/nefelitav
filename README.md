@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - :sassy_woman: Projects i'm working on at the moment:
-  - A leave management website using Spring Boot, React and MongoDB.
   - A film review website using Next.js and Express, PostgreSQL, Redis.
   - A ferry booking website React, NestJS, GraphQL, MongoDB, Redis.
 
