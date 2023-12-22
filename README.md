@@ -6,7 +6,7 @@
 
 - :dart: Things i want to learn or master:
   -  NestJS, Next.js, React Native
-  -  Redis, MySQL, PostgreSQL, SQLite, MongoDB, Neo4j
+  -  Redis, MySQL, PostgreSQL, MongoDB, Neo4j
   -  Jest, Cypress, Postman 
   -  GraphQL
   -  Neovim 
