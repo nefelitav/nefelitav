@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-- :sassy_woman: Projects i'm working on at the moment:
+- :sassy_woman: Projects I'm working on at the moment:
   - A film review website using Next.js, Express, PostgreSQL, Redis.
-  - A ferry booking website React, NestJS, GraphQL, MongoDB, Redis.
+  - A ferry booking website using React, NestJS, GraphQL, MongoDB, Redis.
 
-- :dart: Things i want to learn or master:
-  -  NestJS, Next.js, React Native
-  -  Redis, MySQL, PostgreSQL, MongoDB, Neo4j
-  -  Jest, Cypress, Postman 
+- :dart: Things I want to learn or master:
+  -  Typescript, NestJS, Next.js, React Native, Redux
+  -  Rust, Go
+  -  MySQL, PostgreSQL, MongoDB, Neo4j
+  -  Kafka, RabbitMQ
+  -  Jest, Cypress 
   -  GraphQL
   -  Neovim 
   
