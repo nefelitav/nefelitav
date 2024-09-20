@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- :sassy_woman: Projects I'm working on at the moment:
-  - A film review website using Next.js, Express, PostgreSQL, Redis.
-  - A ferry booking website using React, NestJS, GraphQL, MongoDB, Redis.
-
 - :dart: Things I want to learn or master:
   -  Typescript, NestJS, Next.js, React Native, Redux
   -  Rust, Go
