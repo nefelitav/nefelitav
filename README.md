@@ -5,7 +5,9 @@
   -  PostgreSQL, MongoDB, Neo4j
   -  Kafka, RabbitMQ
   -  nginx, Terraform
-  -  elasticsearch
+  -  Elasticsearch
   -  Spark
+  -  Istio
+  -  resilience4j
     
 - 📫 How to reach me: nefeli.tavoulari123@gmail.com
