@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :dart: Things I want to learn or master:
+- :dart: Things I'm curious to learn about or master:
   -  PostgreSQL, MongoDB, Neo4j
-  -  Kafka, RabbitMQ
+  -  Kafka/RabbitMQ
   -  nginx, Terraform, Istio
   -  Elasticsearch
   -  Spark
