@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - :dart: Things I'm curious to learn about or master:
-  -  MongoDB, Neo4j
-  -  Kafka/RabbitMQ
+  -  PostgreSQL, MongoDB, Neo4j, Redis
+  -  Graphql, gRPC
+  -  nginx
+  -  Kafka, RabbitMQ, Pub/Sub
   -  Elasticsearch
   -  Spark
     
