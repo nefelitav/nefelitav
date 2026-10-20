@@ -4,7 +4,7 @@
   -  PostgreSQL, MongoDB, Neo4j, Redis
   -  Graphql, gRPC
   -  nginx
-  -  Kafka, RabbitMQ, Pub/Sub
+  -  Kafka, RabbitMQ
   -  Elasticsearch
   -  Spark
     
